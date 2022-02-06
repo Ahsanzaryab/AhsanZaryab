@@ -17,7 +17,7 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/ali-ahsan-zaryab" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aliahsanbss@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aliahsanbss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Ahsanzaryab" target="blank"><img align="center" src="https://img.shields.io/badge/Ahsanzaryab-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ali-ahsan-zaryab" target="blank"><img align="center" src="https://img.shields.io/badge/Ali Ahsan Zaryab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aliahsanbss@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aliahsanbss@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Ahsanzaryab" target="blank"><img align="center" src="https://img.shields.io/badge/Ahsanzaryab-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
