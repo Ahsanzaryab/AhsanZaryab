@@ -7,7 +7,7 @@
 <h1>About Me! 😎</h1>
 
 - 🏫: I'm Computer Science Gradute.
-- 🔭: I’m currently working on Django Projects.
+- 🔭: I’m currently working on DevOps.
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: He/His
